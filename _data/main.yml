@@ -1,16 +1,16 @@
-edition: 20th # conference edition
+edition: 21st # conference edition
 
 theme: Democratizing Science
 
 logo: escience-logo-all-white.png       # conference logo (for menu in header bar / replaces theme)
 logo-lg: escience-dark-logo.png # conference logo (for homepage only)
 
-dates: September 16-20, 2024 # conference dates
+dates: September 15-18, 2025 # conference dates
 
 location: Osaka, Japan # conference location
 
 description: >
-  IEEE eScience 2024 brings together leading interdisciplinary research communities,
+  IEEE eScience 2025 brings together leading interdisciplinary research communities,
   developers and users of eScience applications and enabling IT technologies. The
   objective of the eScience Conference is to promote and encourage all aspects of
   eScience and its associated technologies, applications, algorithms and tools with
