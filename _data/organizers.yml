@@ -1,6 +1,7 @@
 roles:
-  - General Chair
+  - General Chairs
   - Program Chairs
+  - Local Chairs
   - Track Chairs
   - Workshop Chairs
   - Tutorial Chairs
@@ -32,4 +33,12 @@ organizers:
     institution: University of Illinois Urbana-Champaign
     photo: katz.jpg
 
- 
+   - name: Sandra Gesing
+    role: Local Chair
+    institution: University of California San Diego
+    photo: gesing.jpg
+
+  - name: Andre Bauer
+    role: Local Chair
+    institution: Illinois Institute of Technology
+    photo: bauer.jpg
