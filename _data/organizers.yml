@@ -2,7 +2,6 @@ roles:
   - General Chairs
   - Program Chairs
   - Local Chairs
-  - Track Chairs
   - Workshop Chairs
   - Tutorial Chairs
   - Poster Chairs
@@ -10,35 +9,35 @@ roles:
   - Media Chairs
   - Web Chair
   - Publicity Chair
-  # - Student Volunteer Chair
+  
 
 organizers:
   - name: Ioan Raicu
-    role: General Chair
+    role: General Chairs
     institution: Illinois Institute of Technology
     photo: raicu.jpg
 
   - name: Zhiling Lan
-    role: General Chair
+    role: General Chairs
     institution: University of Illinois Chicago
     photo: lan.jpg
 
   - name: Ana Lucia Varbanescu
-    role: Program Chair
+    role: Program Chairs
     institution: 
     photo: varbanescu.jpg
 
   - name: Daniel S. Katz
-    role: Program Chair
+    role: Program Chairs
     institution: University of Illinois Urbana-Champaign
     photo: katz.jpg
 
    - name: Sandra Gesing
-    role: Local Chair
+    role: Local Chairs
     institution: University of California San Diego
     photo: gesing.jpg
 
   - name: Andre Bauer
-    role: Local Chair
+    role: Local Chairs
     institution: Illinois Institute of Technology
     photo: bauer.jpg
