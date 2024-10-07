@@ -12,9 +12,24 @@ roles:
   # - Student Volunteer Chair
 
 organizers:
-  - name: 
+  - name: Ioan Raicu
     role: General Chair
+    institution: Illinois Institute of Technology
+    photo: raicu.jpg
+
+  - name: Zhiling Lan
+    role: General Chair
+    institution: University of Illinois Chicago
+    photo: lan.jpg
+
+  - name: Ana Lucia Varbanescu
+    role: Program Chair
     institution: 
-    photo: 
+    photo: varbanescu.jpg
+
+  - name: Daniel S. Katz
+    role: Program Chair
+    institution: University of Illinois Urbana-Champaign
+    photo: katz.jpg
 
  
