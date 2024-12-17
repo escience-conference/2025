@@ -41,3 +41,24 @@ organizers:
     role: Local Chairs
     institution: Illinois Institute of Technology
     photo: bauer.jpg
+
+  - name: Roselyne Tchoua
+    role: Posters Chairs
+    institution: DePaul University
+    photo: tchoua.jpg
+
+  - name: Tyler Skluzacek
+    role: Posters Chairs
+    institution: Oak Ridge National Lab
+    photo: skluzacek.jpg
+    
+  - name: Pengyin Shan
+    role: Tutorials Chairs
+    institution: University of Illinois Urbana-Champaign
+    photo: shan.jpg
+
+  - name: Alex Orhean
+    role: Publicity Chairs
+    institution: DePaul University
+    photo: orhean.jpg
+
