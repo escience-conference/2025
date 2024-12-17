@@ -4,11 +4,11 @@ roles:
   - Local Chairs
   - Workshop Chairs
   - Tutorial Chairs
-  - Poster Chairs
+  - Posters Chairs
   - Proceedings Chair
   - Media Chairs
-  - Web Chair
-  - Publicity Chair
+  - Web Chairs
+  - Publicity Chairs
   
 
 organizers:
@@ -51,12 +51,17 @@ organizers:
     role: Posters Chairs
     institution: Oak Ridge National Lab
     photo: skluzacek.jpg
-    
+   
   - name: Pengyin Shan
     role: Tutorials Chairs
     institution: University of Illinois Urbana-Champaign
     photo: shan.jpg
-
+    
+  - name: Anthony Kougkas
+    role: Web Chairs
+    institution: Illinois Institute of Technology
+    photo: kougkas.jpg
+    
   - name: Alex Orhean
     role: Publicity Chairs
     institution: DePaul University
