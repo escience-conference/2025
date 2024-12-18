@@ -11,7 +11,7 @@ eScience studies, enacts, and improves the ongoing process of innovation in comp
 
 eScience’25 welcomes paper submissions for its technical program. The conference will be an interdisciplinary forum for researchers, developers, and users of applications and enabling IT technologies. The conference welcomes conceptualization, implementation, and experience contributions enabling and driving innovation in data- and compute-intensive research. eScience covers all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities. Infrastructure and technologies can include a broad spectrum, such as HPC, cloud, IoT, as well as  artificial intelligence and machine learning methods. 
 
-Submissions may include all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. Ideal papers involve the interplay between applications and infrastructure technologies, with a focus on novelty in one or both. 
+**Submissions may include all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. Ideal papers involve the interplay between applications and infrastructure technologies, with a focus on novelty in one or both.** 
 
 Topics of interest related to eScience also include, but are not limited to:
 - Artificial intelligence, machine learning, data science, generative AI, large language models applied/applicable in science
