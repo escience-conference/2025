@@ -15,24 +15,25 @@ eScience’25 welcomes paper submissions for its technical program. The conferen
 
 Topics of interest related to eScience also include, but are not limited to:
 - Artificial intelligence, machine learning, data science, generative AI, large language models applied/applicable in science
-- Research computing cyberinfrastructures (e.g., Cloud, Cluster, HPC, Supercomputing)
-- Findable, Accessible, Interoperable, Reusable (FAIR) principles for scientific software, data, workflows, models
+- Research computing cyberinfrastructure (e.g., cloud, cluster, HPC, supercomputer)
+- Findable, Accessible, Interoperable, Reusable (FAIR) principles for scientific  software, data, workflows, models
 - Reproducible and replicable eScience
-- Translational Research in Computer and Computational Sciences
-- Continuum Computing: Convergence between Cloud Computing, Edge Computing,  and/or the Internet of Things (IoT)
+- Translational research in computer and computational sciences
+- Continuum computing: convergence between cloud computing, edge computing,  and/or the Internet of Things (IoT)
 - Education and e-Science
 - Collaborative, reproducible and replicable eScience
 - Science gateways, data portals, and digital repositories
 - Resource management and scheduling
 - Programming paradigms and models
 - Real-time (time-sensitive) computing (e.g., for scientific instruments)
-- Automation and event-based computing 
+- Automation and event-based computing
 - Big data stacks and big data ecosystems
 - File and storage systems, I/O, and data management
 - Scientific applications, algorithms, tools, and technologies
 - Scientific workflows and distributed computing paradigms (e.g., FaaS)
 - Blockchain technologies in science
-- Fault tolerance, resilience, and security 
+- Fault tolerance, resilience, and security
+
 
 The conference is now soliciting full papers (8 pages excluding references) that present previously unpublished research achievements or eScience experiences and solutions
 Submitted papers should use the IEEE 8.5×11 [manuscript guidelines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html): double-column text using single-spaced 10-point font on 8.5×11-inch pages. All submissions will be single-blind peer reviewed. Selected full papers will receive a slot for an oral presentation. Accepted posters will be presented during a poster reception. Accepted full papers will be published in the IEEE conference proceedings. Rejected full papers can be re-submitted for a poster or workshop presentation.
