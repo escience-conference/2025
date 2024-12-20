@@ -16,7 +16,7 @@ Workshops typically feature a blend of invited talks, peer-reviewed papers, pane
 We welcome proposals for workshops on new, innovative topics as well as submissions to continue successful workshops from previous years. Note that proceedings of eScience workshops will be published by the IEEE in dedicated proceedings. The selected workshops will be held on the first day of the conference (September 15).
 
 ## Workshops Submission Process
-To Submit: Please email your proposal to the Workshops chairs using the following addresses: workshops@escience-conference.org). The submissions must conform to the Submission Guidelines.
+Please email your proposal to the Workshops chairs using the following addresses: [workshops@escience-conference.org](workshops@escience-conference.org). The submissions must conform to the Submission Guidelines.
 
 ## Workshop Proposals Formatting Guidelines
 Please adhere to the following formatting guidelines for workshop proposals. Your proposal should be submitted as a single PDF document containing 2 to 4 pages and should include the following information:
@@ -39,13 +39,13 @@ Please adhere to the following formatting guidelines for workshop proposals. You
 * Workshop Setup: Accepted workshops should be prepared to establish a dedicated website. If you plan to use a paper submission process with peer review, provide the submission link.
 
 ## Dates
-Workshops proposal deadline: Monday, March 10, 2025
-Notification of acceptance: Monday, March 24, 2025
-Camera-ready due: Monday, August 11, 2025
-Conference: Sep 15-18, 2025
+* Workshops proposal deadline: Monday, March 10, 2025
+* Notification of acceptance: Monday, March 24, 2025
+* Camera-ready due: Monday, August 11, 2025
+* Conference: Sep 15-18, 2025
 
 ## Contact information
 * Jay Lofstead, Workshops Co-Chair, Sandia National Laboratories, USA
 * TBA
 
-Email contact: workshops@escience-conference.org
+Email contact: [workshops@escience-conference.org](workshops@escience-conference.org)
