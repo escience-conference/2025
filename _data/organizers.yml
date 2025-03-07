@@ -6,7 +6,6 @@ roles:
   - Tutorial Chairs
   - Posters Chairs
   - Proceedings Chair
-  - Media Chairs
   - Web Chairs
   - Publicity Chairs
   
@@ -46,6 +45,11 @@ organizers:
     role: Workshop Chairs
     institution: Sandia National Lab
     photo: lofstead.jpg
+
+ - name: Rocío Carratalá Sáez 
+    role: Workshop Chairs
+    institution: Universitat de València
+    photo: saez.jpg
  
   - name: Philipp Gschwandtner
     role: Tutorial Chairs
