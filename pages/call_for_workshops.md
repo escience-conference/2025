@@ -46,6 +46,6 @@ Please adhere to the following formatting guidelines for workshop proposals. You
 
 ## Contact information
 * Jay Lofstead, Workshops Co-Chair, Sandia National Laboratories, USA
-* TBA
+* Rocío Carratalá Sáez, Workshops Co-Chair, Universitat de València, Spain
 
 Email contact: [workshops@escience-conference.org](workshops@escience-conference.org)
