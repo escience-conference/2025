@@ -49,8 +49,8 @@ eScience 2025 will include the following awards, which will be announced at the 
 - Best Student Paper Award
 
 ### Dates
-- Paper Submissions Due: Monday, May 5, 2025
-- Notification of Paper Acceptance: Monday, June 23, 2025
+- Paper Submissions Due: Monday, May 19, 2025
+- Notification of Paper Acceptance: Monday, June 30, 2025
 - All Camera-ready Submissions due: Monday, August 11, 2025
 - Conference: September 15-18, 2025
 
