@@ -10,17 +10,26 @@
 - name: Matt Baughman
   institution: University of Chicago, USA
 
+- name: E. Wes Bethel
+  institution: San Francisco State University, USA
+
 - name: Martin Berzins
   institution: University of Utah, USA
 
 - name: Tekin Bicer
   institution: Argonne National Laboratory, USA
 
+- name: Kris Bubendorfer
+  institution: Victoria University of Wellington, New Zealand
+
 - name: Jon C. Calhoun
   institution: Clemson University, USA
 
 - name: Prasad Calyam
   institution: University of Missouri-Columbia, USA
+
+- name: Donatella Castelli
+  institution: Istituto di Scienza e Tecnologie dell'Informazione - CNR, Italy
 
 - name: Kum-Won Cho
   institution: Kumoh National Institute of Technology, Republic of Korea
@@ -112,6 +121,9 @@
 - name: Diana Moise
   institution: Hewlett Packard Enterprise (HPE), Switzerland
 
+- name: Raffaele Montella
+  institution: University of Naples "Parthenope", Italy
+
 - name: Kazunori Nozaki
   institution: The University of Osaka Dental Hospital, Japan
 
@@ -123,6 +135,9 @@
 
 - name: Arnab K. Paul
   institution: BITS Pilani Goa Campus, India
+
+- name: Swaroop Pophale
+  institution: Oak Ridge National Laboratory, USA
 
 - name: Line C. Pouchard
   institution: Sandia National Laboratories, USA
@@ -160,6 +175,9 @@
 - name: Stian Soiland-Reyes
   institution: The University of Manchester, UK
 
+- name: Achim Streit
+  institution: Karlsruhe Institute of Technology (KIT), Germany
+
 - name: Atsuko Takefusa
   institution: National Institute of Informatics; RIKEN, Japan
 
@@ -180,6 +198,9 @@
 
 - name: Paul Watson
   institution: National Innovation Centre for Data, UK
+
+- name: Sean Wilkinson
+  institution: Oak Ridge National Laboratory, USA
 
 - name: Eric Yen
   institution: Academia Sinica, Taiwan
