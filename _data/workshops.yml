@@ -5,7 +5,7 @@
     software and repository for enriching scientific communications, constructing tools like automated 
     knowledge processing, knowledge graph constructions, and documentation generation in the context 
     of science communication.
-
+    <br><br>
     Through a series of presentations and discussions, participants will gain a comprehensive understanding 
     of how AI, particularly generative AI, can transform science communication, making complex information 
     more accessible and engaging for a broader audience. Furthermore, beyond communication, the workshop 
@@ -13,7 +13,7 @@
     as integration with critical technologies such as databases, workflow management, knowledge graphs, 
     ontologies, and security frameworks. Discussions will explore AI-driven techniques for software 
     analysis, repository management, discovery, and reusability.
-
+    <br><br>
     Additionally, the workshop will highlight the interconnectedness of generative AI with other critical 
     technologies, including databases, workflow management, knowledge graphs, ontologies, and security 
     mechanisms. By examining these relationships, participants will develop a deeper appreciation of 
@@ -33,7 +33,7 @@
     use and reuse are encouraged. New techniques and technologies that address reproducibility requirements 
     are also requested. We seek work on all of these, and related, topics as well as position and experience 
     papers looking to drive the conversation for practitioners and researchers in these spaces.
-
+    <br><br>
     This workshop contributes by sharing experiences and exploring the various technological infrastructure 
     needs to support effective, convenient workflow systems and application composition structures and approaches 
     across a broad spectrum of HPC environments from clusters to supercomputers to cloud systems.
@@ -54,12 +54,12 @@
     to real-world problems and provides a structured approach to enhancing collaboration, influence, and communication 
     within interdisciplinary teams. Participants will gain insights into navigating complex academic, industry, and 
     governmental landscapes to secure funding, align stakeholders, and drive impactful research outcomes. 
-
+    <br><br>
     Through interactive discussions and hands-on group exercises, attendees will explore frameworks such as ABT 
     narrative structure (“And, But, Therefore”), empathy mapping for stakeholder alignment, and root-cause analysis 
     using the 5 Whys. The workshop emphasises learning from both successful and failed initiatives to cultivate 
     strategies for overcoming barriers in eScience work and research.
-
+    <br><br>
     This workshop is tailored for computer and data scientists, PhD students, postdoctoral researchers, Professors, 
     and senior academics actively involved in eScience projects. It is particularly relevant for those working at 
     the intersection of computational science and societal challenges who seek to improve their ability to communicate 
