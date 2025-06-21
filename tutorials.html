@@ -8,7 +8,7 @@ title: Tutorials
 <div class="row">
     {% for t in ts %}
     <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
-        <h3>{{ t.title }}</h3>
+        <h3><a href="{{ t.links[0] }}" target="_blank">{{ t.title }}</a></h3>
         <p><i class="fa fa-users" style="margin-right: 10px;"></i><b>{{ t.organizers | join: ', ' }}</b></p>
         <p>{{ t.abstract }}</p>
     </div>
