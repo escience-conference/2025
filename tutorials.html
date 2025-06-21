@@ -4,12 +4,12 @@ permalink: /tutorials
 title: Tutorials
 ---
 
-{% assign ts = site.data.tutorials %}
+{% assign ts = site.data.tutorials | sort: "title" %}
 <div class="row">
     {% for t in ts %}
     <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
-        <strong style="font-size: 1.2em">{{ t.title }}</strong><br />
-        <p><i class="far fa-users" style="margin-right: 10px;"></i><b>{{ t.organizers | join: ', ' }}</b></p>
+        <h3>{{ t.title }}</h3>
+        <p><i class="fa fa-users" style="margin-right: 10px;"></i><b>{{ t.organizers | join: ', ' }}</b></p>
         <p>{{ t.abstract }}</p>
     </div>
     {% endfor %}
