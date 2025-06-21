@@ -1,0 +1,97 @@
+- title: AI Workflows using ACCESS Pegasus
+  organizers:
+    - Mats Rynge (USC Information Sciences Institute)
+    - Karan Vahi (USC Information Sciences Institute)
+  links:
+    - https://pegasus.isi.edu/tutorial/learn-pegasus-workflows-2025/Pegasus-Tutorial-2025.pdf
+  abstract: |
+    Workflows are a key technology for enabling complex scientific computations. They capture the interdependencies between processing steps in data analysis and simulation pipelines as well as the mechanisms to execute those steps reliably and efficiently. Workflows can capture complex processes, promote sharing and reuse, and also provide provenance information necessary for the verification of scientific results and scientific reproducibility.
+    
+    Pegasus is a workflow system, and is now an integral part of the ACCESS Support offerings (https://support.access-ci.org/pegasus ). ACCESS Pegasus provides a hosted workflow environment, based on Open Ondemand and Jupyter, which enables users to develop, submit and debug workflows using just a web browser. A provisioning system, HTCondor Annex, is used to execute the workflows on a set of ACCESS resources: PSC Bridges2, SDSC Expanse, Purdue Anvil, NCSA Delta, and IU Jetstream2.
+    
+    The goal of the tutorial is to introduce application scientists to the benefits of modeling their AI/GPU pipelines in a portable way with use of scientific workflows with application containers. We will examine the workflow lifecycle at a high level and issues and challenges associated with various steps in the workflow lifecycle such as creation, execution and monitoring and debugging. Through hands-on exercises in a hosted Jupyter notebook environment, we will walk users through an example showcasing Large Language Model - Retrieval Augmented Generation (LLM-RAG) workflows on GPUs provisioned on ACCESS Resources.
+    
+    Pegasus (https://pegasus.isi.edu) is used in a number of scientific domains doing production grade science. Pegasus is used in astronomy, gravitational wave science, bioinformatics, civil engineering, climate modeling, earthquake science, molecular dynamics and other complex analyses.
+
+- title: Reproducible Benchmarking for High-Performance Computing Applications
+  organizers:
+    - Olga Pearce
+    - Doug Jacobsen
+    - Greg Becker
+    - Stephanie Brink
+  links:
+    - https://github.com/GoogleCloudPlatform/ramble
+    - https://ramble.readthedocs.io/en/latest
+    - https://github.com/llnl/benchpark
+    - https://software.llnl.gov/benchpark
+  abstract: |
+    Benchmarking is integral to procurement of HPC systems, communicating HPC center workloads to HPC vendors, and verifying performance of the delivered HPC systems. Currently, HPC benchmarking is manual and challenging at every step, posing a high barrier to entry, and hampering reproducibility of the benchmarks across different HPC systems. We leverage recent improvements in automation in HPC to enable better evaluation of our systems.
+    
+    This hands-on half-day tutorial provides a detailed introduction to a suite of open-source tools and their capabilities (Ramble and Benchpark) to enable reproducible benchmarking of HPC systems. The tutorial is structured to address reproducibility aspects, including encoding of the run and build instructions for a given application and hardware system. Attendees of this tutorial will leave with foundational skills in conducting reproducible benchmarking using these tools for defining build and run instructions.
+
+- title: Large-scale Workflow Provenance Data Management in the AI Lifecycle using Flowcept
+  organizers:
+    - Amal Gueroudji (ANL)
+    - Renan Souza (ORNL)
+    - Daniel Rosendo (ORNL)
+    - Rafael Ferreira da Silva (ORNL)
+    - Matthieu Dorier (ANL)
+  links:
+    - https://pegasus.isi.edu/tutorial/NAIRR-AI-Unlocked-2025/Pegasus-NAIRR-AI-Unlocked-2025.pdf
+  abstract: |
+    Developing large and complex AI models—such as large language models (LLMs)—that require high-performance computing (HPC) systems is a human-driven, resource-intensive process. AI scientists must continuously balance model accuracy with computational efficiency while navigating a vast and complex design space, where small adjustments to architecture, hyperparameters, or datasets can yield marginal accuracy gains at the cost of disproportionately large increases in computational expense. This challenge is further complicated by the need to integrate and analyze multiple interconnected workflows—including data preparation, training, evaluation, and inference phases—across the AI lifecycle. Workflow provenance techniques have demonstrated high potential to address such complexity. However, existing tools are often not tailored to the needs of HPC systems: they either impose high overheads or can only focus narrowly on a single aspect, neglecting the broader, multi-level nature of the AI lifecycle.
+    
+    This tutorial introduces Flowcept, a data-centric framework that leverages workflow provenance for lifecycle-aware data analysis of AI workflows. Flowcept provides a broad, unified data view across the phases of the AI model development lifecycle, allowing for in-depth, runtime monitoring of computationally intensive phases, such as training large-scale models that require HPC. Participants will gain hands-on experience with managing provenance with Flowcept in a variety of AI workloads, including the development of LLMs. We will explore the types of provenance data at multiple levels, including workflow, task, model, and layer, as well as resource consumption data (e.g., GPU, storage). We will also provide practical guidance on processing collected data, analyzing it interactively with Jupyter Notebooks, and monitoring it in real time with Grafana. By the end of the tutorial, participants will be able to use collected data for reproducibility, end-to-end queries, and tradeoff analysis between model performance and resource utilization on HPC.
+
+- title: Julia for Performance-Portable High-Performance Computing via JACC
+  organizers:
+    - Philip W. Fackler
+    - Steven E. Hahn
+    - Pedro Valero-Lara
+  links:
+    - https://github.com/ornl-training/julia-basics
+    - https://juliaornl.github.io/TutorialJuliaHPC/
+    - https://github.com/JuliaORNL/JACC.jl
+  abstract: |
+    The Julia for performance-portable High-Performance Computing (HPC) via JACC tutorial offers attendees a hands-on opportunity to gain practical experience in leveraging Julia for efficient and parallel code development tailored to their HPC requirements. JACC is a Julia library that enables a single code to be easily parallelized across CPUs and GPUs: NVIDIA, AMD, Intel, Apple and can interoperate with the Julia HPC ecosystem in particular with the message passing interface (MPI). Due to the recent adoption of Julia across several scientific codes for its productive ecosystem (scientific syntax, packaging, analysis, AI) and performance via LLVM compilation, hence we address the need for vendor-neutral HPC capabilities. During the 3-hour tutorial we will cover basic aspects of the Julia language and provide exercises and a full application (Gray-Scott) to showcase the use of JACC APIs with MPI and parallel I/O (via ADIOS) in a real scientific problem. The tutorial targets scientists with interest in Julia at a beginner and intermediate level on the use of parallel code at a minimal cost.
+
+- title: Building scalable solutions for hybrid QC-HPC workloads on the cloud
+  organizers:
+    - Tyler Takeshita
+    - Benchen Huang
+    - Sebastian Stern
+  abstract: |
+    Quantum computing (QC) has the potential to aid in the study of difficult computational problems. The development of quantum applications is an active field of research. Hybrid quantum-classical workflows leveraging QC and HPC resources in tandem are considered a promising path for first useful applications of quantum technologies.
+    
+    In this tutorial, we build a scalable cloud solution to a quantum many-body problem using distributed heterogeneous quantum and classical computing resources on Amazon Web Services (AWS). We will leverage tools and services that enable flexible hybrid quantum-classical workflows and explore its capabilities by implementing a quantum Monte Carlo (QMC) algorithm. The tutorial covers QMC and QC basics and will enable participants to utilize cloud-native HPC and QC technologies to run a variety of hybrid workloads at scale. During the tutorial, participants will have access to temporary AWS accounts and can follow along the guided steps in the QMC workflow. All attendees leave with a coded solution, which can serve as a foundation for more advanced hybrid quantum-classical cloud solutions.
+
+- title: Reliable Metadata Generation and Data Discovery Tutorial
+  organizers:
+    - Jon Starr
+    - Ellie DeSota
+  links:
+    - https://escience25.scios.tech
+  abstract: |
+    The Reliable Metadata Generation and Data Discovery (RMGDD) tutorial is a hands-on, output-oriented session that follows on from the RMGDD workshop on the first day of the event. This half-day tutorial will allow participants to engage directly with metadata automation and data discovery tools presented during the workshop. Participants will rotate through structured, interactive tool stations run by DeSci Labs, Coordination.Network, and Data Archiving + Networked Solutions, each designed to demonstrate specific capabilities in metadata extraction, community-based metadata enrichment, and discovery integration. Afterwards each breakout will debrief in a group and conduct a short gap analysis to determine what prevents further use of these tools. The tutorial is organized by experts from SciOS who serve as facilitators, helping participants engage with the tools meaningfully, document challenges and opportunities, and collaboratively identify remaining gaps in the tooling landscape.
+
+- title: Type-Safe Functional Programming for Data Science
+  organizers:
+    - Konstantin Läufer
+    - George K. Thiruvathukal
+  links:
+    - https://scalaworkshop.cs.luc.edu/
+  abstract: |
+    In this tutorial, we revisit the role of type-safe functional programming in data science, empowering Python programmers seeking conciseness and expressiveness while transitioning to more predictable, performant, and reliable environments. As an alternative to the steep learning curve and tooling complexity associated with modern C++ ecosystems, we aim to demonstrate how statically typed functional programming, combined with modern language features and reasonably performant libraries, can serve as a powerful foundation for modern data science and computational science workflows. 
+    
+    We’ll focus on the fundamentals of working with data: reading, transforming, cleaning, summarizing/analytics, and visualizing using idiomatic Scala with suitable frameworks like Smile, Spire, and Squants. These tasks remain central to real-world data science but are often overshadowed by discussions of neural networks and GPU frameworks. We aim to reclaim this space with principled approaches that avoid the pitfalls of dynamically typed systems while maintaining programmability and productivity.
+    
+    We’ll include a gentle introduction for Python programmers interested in transitioning to a more robust and structured environment. This module will demonstrate equivalent workflows between Python’s pandas and Scala’s Smile, how idioms translate into more composable expressions in a statically typed setting, and how compile-time type inference and immutability reduce runtime errors and debugging effort. 
+
+- title: Advanced Data Science Techniques Using GPUs
+  organizers:
+    - Didier Barradas-Bautista
+    - Abdelghafur Halimi
+  links:
+    - https://urldefense.com/v3/__https://d-barradas.github.io/escience25-tutorial/__;!!DZ3fjg!6kYwab7kA5Sbmw79Wkyg4NkfyjBJ5bBodi3NxX4ZkU34l72nzwwQUfFE0_7DtQuLVPFX1e0qGvFXoQwJiMTbt9TVlDm49YnJt5Q$
+  abstract: |
+    In this tutorial, we revisit the role of type-safe functional programming in data science,empowering Python programmers seeking conciseness and expressiveness while transitioning to more predictable, performant, and reliable environments. Building on our prior experience at IEEE eScience on C++ and SYCL, we observed the steep learning curve and tooling complexity associated with modern C++ ecosystems, especially for those coming from dynamic languages. While low-level systems languages offer performance benefits, the overhead of development and debugging, along with the loss of human productivity, often outweighs the gains for many data science workflows.
