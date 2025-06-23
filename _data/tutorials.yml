@@ -37,7 +37,7 @@
     - Rafael Ferreira da Silva (ORNL)
     - Matthieu Dorier (ANL)
   links:
-    - https://pegasus.isi.edu/tutorial/NAIRR-AI-Unlocked-2025/Pegasus-NAIRR-AI-Unlocked-2025.pdf
+    - https://github.com/flowcept/flowcept-escience25-tutorial
   abstract: |
     Developing large and complex AI models—such as large language models (LLMs)—that require high-performance computing (HPC) systems is a human-driven, resource-intensive process. AI scientists must continuously balance model accuracy with computational efficiency while navigating a vast and complex design space, where small adjustments to architecture, hyperparameters, or datasets can yield marginal accuracy gains at the cost of disproportionately large increases in computational expense. This challenge is further complicated by the need to integrate and analyze multiple interconnected workflows—including data preparation, training, evaluation, and inference phases—across the AI lifecycle. Workflow provenance techniques have demonstrated high potential to address such complexity. However, existing tools are often not tailored to the needs of HPC systems: they either impose high overheads or can only focus narrowly on a single aspect, neglecting the broader, multi-level nature of the AI lifecycle.
 
