@@ -33,3 +33,21 @@
   slides: ~
   biography: >
     I enjoy Arctic science that spans multiple disciplines and approaches. My background is in permafrost hydrology and how tundra landscape evolution is impacting the flow and storage of water. More recent interests include big geospatial data and how we can enable the creation, access, and use of big data (think sub-meter across the Arctic) to support science and address societal challenges of permafrost thaw hazards.
+
+- title: "Quantum Computing: An Outlook for Platforms and Applications"
+  time: TBD
+  order: 3
+  chair: TBD
+  abstract: >
+    Recent progress in quantum computing hardware has shown impressive scale and fidelity, sitting on the cusp of fault-tolerant operation and practical applications. I will discuss some of these developments and their implications for quantum applications, especially hybrid quantum-classical applications.
+
+    <br><br>
+    In particular, I propose that algorithms should be co-designed using hybrid strategies involving high-performance classical resources as well as quantum hardware serving as special-purpose accelerators. I will discuss several examples, including our work in identifying cancer biomarkers in multimodal patient data.
+  name: Fred Chong
+  position: Seymour Goodman Professor of Computer Science
+  institution: University of Chicago, Chief Scientist for Quantum Software at Infleqtion
+  photo: chong.jpg
+  website: http://people.cs.uchicago.edu/~ftchong/
+  slides: ~
+  biography: >
+    Fred Chong is the Seymour Goodman Professor in the Department of Computer Science at the University of Chicago and the Chief Scientist for Quantum Software at Infleqtion. He was also Lead Principal Investigator for the EPiQC Project (Enabling Practical-scale Quantum Computing), an NSF Expedition in Computing, from 2018-2024. Chong is a member of the National Quantum Advisory Committee (NQIAC) which provides advice to the President on the National Quantum Initiative Program. In 2020, he co-founded Super.tech, a quantum software company, which was acquired by Infleqtion (formerly ColdQuanta) in 2022. Chong received his Ph.D. from MIT in 1996 and was a faculty member and Chancellor's fellow at UC Davis from 1997-2005. He was also a Professor of Computer Science, Director of Computer Engineering, and Director of the Greenscale Center for Energy-Efficient Computing at UCSB from 2005-2015. He is a fellow of the ACM and the IEEE, a recipient of the NSF CAREER award, the Intel Outstanding Researcher Award, and 15 best paper awards. He is also a recipient of the Quantrell Award, the oldest undergraduate teaching award in the United States, as well as the University of Chicago's Graduate Teaching and Mentoring Award. His research interests include emerging technologies for computing, quantum computing, multicore and embedded architectures, computer security, and sustainable computing.
