@@ -95,3 +95,14 @@
     - https://d-barradas.github.io/escience25-tutorial/
   abstract: |
     In this tutorial, we revisit the role of type-safe functional programming in data science,empowering Python programmers seeking conciseness and expressiveness while transitioning to more predictable, performant, and reliable environments. Building on our prior experience at IEEE eScience on C++ and SYCL, we observed the steep learning curve and tooling complexity associated with modern C++ ecosystems, especially for those coming from dynamic languages. While low-level systems languages offer performance benefits, the overhead of development and debugging, along with the loss of human productivity, often outweighs the gains for many data science workflows.
+
+- title: Workshop on Harmonizing Python Workflows
+  organizers:
+    - Douglas Thain (U Notre Dame) - TaskVine Project
+    - Kyle Chard (U Chicago) - Parsl Project
+    - Shantenu Jha (Rutgers/PPPL) - RADICAL CyberTools
+    - Rafael Ferreira da Silva (ORNL) - Workflows Community Initiative
+  links:
+    - https://workflows.community/workshops/harmony-2025/
+  abstract: |
+    An increasing number of large scale scientific workflow applications are expressed or managed using the Python language. Such workflows consist of large graphs of complex tasks combining data gathering, data processing, simulation, training, inference, validation, and visualization. While there have been many successes, large scale deployments still encounter many barriers due to the need to integrate many different technologies: applications, workflow systems, software environments, cluster technologies, interactive notebooks, visualization systems, and more. The POSE-HARMONY Project seeks to "harmonize" common practices surrounding Python-based workflows, considering issues such as workflow management, technology integration, software deployment, building and testing, documentation, and other matters of common concern. This workshop will be organized in an interactive manner to enable participants to collectively define the common space of challenges in Python workflow deployment, propose resources and solutions of common interest, and point the way towards a common open source ecosystem.
