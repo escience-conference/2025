@@ -1,5 +1,5 @@
-- name: Roel Aaij
-  institution: Nikhef, The Netherlands
+- name: Mohsen Amini Salehi
+  institution: University of North Texas, USA
 
 - name: Malcolm Atkinson
   institution: University of Edinburgh, UK
@@ -13,11 +13,11 @@
 - name: Matt Baughman
   institution: University of Chicago, USA
 
-- name: E. Wes Bethel
-  institution: San Francisco State University, USA
-
 - name: Martin Berzins
   institution: University of Utah, USA
+
+- name: E. Wes Bethel
+  institution: San Francisco State University, USA
 
 - name: Tekin Bicer
   institution: Argonne National Laboratory, USA
@@ -52,6 +52,9 @@
 - name: José Fortes
   institution: University of Florida, USA
 
+- name: Madhu Govindaraju
+  institution: Binghamton University, USA
+
 - name: Dan Gunter
   institution: Lawrence Berkeley National Laboratory, USA
 
@@ -61,11 +64,11 @@
 - name: Valerie Hayot-Sasson
   institution: University of Chicago, USA
 
+- name: Niclas Jansson
+  institution: KTH Royal Institute of Technology, Sweden
+
 - name: Bahman Javadi
   institution: Western Sydney University, Australia
-
-- name: Lennart Johnsson
-  institution: University of Houston, USA
 
 - name: Kyoungsook Kim
   institution: National Institute of Advanced Industrial Science and Technology (AIST), Japan
@@ -174,9 +177,6 @@
 
 - name: Matei Ripeanu
   institution: University of British Columbia, Canada
-
-- name: Mohsen Amini Salehi
-  institution: University of North Texas, USA
 
 - name: Nishant Saurabh
   institution: Utrecht University, The Netherlands
