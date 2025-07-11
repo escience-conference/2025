@@ -40,6 +40,7 @@ contents:
     keynotes: true
     workshops: true
     tutorials: true
+    papers: true
     panel: false
     studentprogram: false
   meeting:
