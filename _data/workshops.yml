@@ -77,3 +77,21 @@
     the intersection of computational science and societal challenges who seek to improve their ability to communicate 
     research outcomes effectively, foster interdisciplinary collaboration, and secure funding.
   url: https://www.nicd.org.uk/escience-2025-workshop?hs_preview=AXDmPhrk-188603163204
+
+- name: "Workshop on Harmonizing Python Workflows (invitation only)"
+  abstract: >
+    An increasing number of large scale scientific workflow applications are expressed or 
+    managed using the Python language. Such workflows consist of large graphs of complex 
+    tasks combining data gathering, data processing, simulation, training, inference, 
+    validation, and visualization. While there have been many successes, large scale 
+    deployments still encounter many barriers due to the need to integrate many different 
+    technologies: applications, workflow systems, software environments, cluster 
+    technologies, interactive notebooks, visualization systems, and more. The POSE-HARMONY 
+    Project seeks to "harmonize" common practices surrounding Python-based workflows, 
+    considering issues such as workflow management, technology integration, software 
+    deployment, building and testing, documentation, and other matters of common concern. 
+    This workshop will be organized in an interactive manner to enable participants to 
+    collectively define the common space of challenges in Python workflow deployment, 
+    propose resources and solutions of common interest, and point the way towards a common 
+    open source ecosystem.
+  url: https://workflows.community/workshops/harmony-2025/
