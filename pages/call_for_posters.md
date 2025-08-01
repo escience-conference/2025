@@ -1,4 +1,4 @@
-| Submission Link         | [https://ssl.linklings.net/conferences/IEEE-eScience/](https://ssl.linklings.net/conferences/IEEE-eScience/) |
+| Submission Link         | [https://easychair.org/conferences?conf=escience25posters](https://easychair.org/conferences?conf=escience25posters) |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
@@ -26,10 +26,10 @@ eScience 2025 will host the following awards, which will be announced at the con
 
 The important dates of the conference are as follows:
 
--	Poster Submissions due: <s>Monday, July 28, 2025</s> Friday, August 1, 2025
--	Poster Acceptance Notification: Monday, August 4, 2025
--	All Camera-ready Submissions due: Monday, August 25, 2025
--	Conference: September 15-18, 2025
+-	Poster Submissions due: <s>Monday, July 28, 2025</s> Friday, August 1, 2025 AoE
+-	Poster Acceptance Notification: Monday, August 4, 2025 
+-	All Camera-ready Submissions due: Monday, August 25, 2025 
+-	Conference: September 15-18, 2025 
 
 ### Contact information:
 
