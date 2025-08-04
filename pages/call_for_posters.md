@@ -27,7 +27,7 @@ eScience 2025 will host the following awards, which will be announced at the con
 The important dates of the conference are as follows:
 
 -	Poster Submissions due: <s>Monday, July 28, 2025</s> Friday, August 1, 2025 AoE
--	Poster Acceptance Notification: Monday, August 4, 2025 
+-	Poster Acceptance Notification: <s>Monday, August 4, 2025</s> Friday, August 8, 2025 AoE
 -	All Camera-ready Submissions due: Monday, August 25, 2025 
 -	Conference: September 15-18, 2025 
 
