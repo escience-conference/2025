@@ -41,6 +41,7 @@ contents:
     workshops: true
     tutorials: true
     papers: true
+    posters: true
     panel: false
     studentprogram: false
   meeting:
