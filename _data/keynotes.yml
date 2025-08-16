@@ -42,7 +42,7 @@
     Recent progress in quantum computing hardware has shown impressive scale and fidelity, sitting on the cusp of fault-tolerant operation and practical applications. I will discuss some of these developments and their implications for quantum applications, especially hybrid quantum-classical applications.
 
     <br><br>
-    In particular, I propose that algorithms should be co-designed using hybrid strategies involving high-performance classical resources as well as quantum hardware serving as special-purpose accelerators. I will discuss several examples, including our work in identifying cancer biomarkers in multimodal patient data.
+    In particular, I propose that algorithms should be co-designed using hybrid strategies involving high-performance classical resources as well as quantum hardware serving as special-purpose accelerators. I will discuss several examples, including our work in identifying cancer biomarkers in multimodal patient data.  I will also describe quantum-inspired algorithms in contextual machine learning and their potential implementation in future quantum machines.
   name: Fred Chong
   position: Seymour Goodman Professor of Computer Science
   institution: University of Chicago, Chief Scientist for Quantum Software at Infleqtion
