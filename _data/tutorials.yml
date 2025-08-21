@@ -66,15 +66,6 @@
 
     In this tutorial, we build a scalable cloud solution to a quantum many-body problem using distributed heterogeneous quantum and classical computing resources on Amazon Web Services (AWS). We will leverage tools and services that enable flexible hybrid quantum-classical workflows and explore its capabilities by implementing a quantum Monte Carlo (QMC) algorithm. The tutorial covers QMC and QC basics and will enable participants to utilize cloud-native HPC and QC technologies to run a variety of hybrid workloads at scale. During the tutorial, participants will have access to temporary AWS accounts and can follow along the guided steps in the QMC workflow. All attendees leave with a coded solution, which can serve as a foundation for more advanced hybrid quantum-classical cloud solutions.
 
-- title: Reliable Metadata Generation and Data Discovery Tutorial
-  organizers:
-    - Jon Starr
-    - Ellie DeSota
-  links:
-    - https://escience25.scios.tech
-  abstract: |
-    The Reliable Metadata Generation and Data Discovery (RMGDD) tutorial is a hands-on, output-oriented session that follows on from the RMGDD workshop on the first day of the event. This half-day tutorial will allow participants to engage directly with metadata automation and data discovery tools presented during the workshop. Participants will rotate through structured, interactive tool stations run by DeSci Labs, Coordination.Network, and Data Archiving + Networked Solutions, each designed to demonstrate specific capabilities in metadata extraction, community-based metadata enrichment, and discovery integration. Afterwards each breakout will debrief in a group and conduct a short gap analysis to determine what prevents further use of these tools. The tutorial is organized by experts from SciOS who serve as facilitators, helping participants engage with the tools meaningfully, document challenges and opportunities, and collaboratively identify remaining gaps in the tooling landscape.
-
 - title: Type-Safe Functional Programming for Data Science
   organizers:
     - Konstantin Läufer
