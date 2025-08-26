@@ -66,19 +66,6 @@
 
     In this tutorial, we build a scalable cloud solution to a quantum many-body problem using distributed heterogeneous quantum and classical computing resources on Amazon Web Services (AWS). We will leverage tools and services that enable flexible hybrid quantum-classical workflows and explore its capabilities by implementing a quantum Monte Carlo (QMC) algorithm. The tutorial covers QMC and QC basics and will enable participants to utilize cloud-native HPC and QC technologies to run a variety of hybrid workloads at scale. During the tutorial, participants will have access to temporary AWS accounts and can follow along the guided steps in the QMC workflow. All attendees leave with a coded solution, which can serve as a foundation for more advanced hybrid quantum-classical cloud solutions.
 
-- title: Type-Safe Functional Programming for Data Science
-  organizers:
-    - Konstantin Läufer
-    - George K. Thiruvathukal
-  links:
-    - https://scalaworkshop.cs.luc.edu/
-  abstract: |
-    In this tutorial, we revisit the role of type-safe functional programming in data science, empowering Python programmers seeking conciseness and expressiveness while transitioning to more predictable, performant, and reliable environments. As an alternative to the steep learning curve and tooling complexity associated with modern C++ ecosystems, we aim to demonstrate how statically typed functional programming, combined with modern language features and reasonably performant libraries, can serve as a powerful foundation for modern data science and computational science workflows. 
-
-    We'll focus on the fundamentals of working with data: reading, transforming, cleaning, summarizing/analytics, and visualizing using idiomatic Scala with suitable frameworks like Smile, Spire, and Squants. These tasks remain central to real-world data science but are often overshadowed by discussions of neural networks and GPU frameworks. We aim to reclaim this space with principled approaches that avoid the pitfalls of dynamically typed systems while maintaining programmability and productivity.
-
-    We'll include a gentle introduction for Python programmers interested in transitioning to a more robust and structured environment. This module will demonstrate equivalent workflows between Python's pandas and Scala's Smile, how idioms translate into more composable expressions in a statically typed setting, and how compile-time type inference and immutability reduce runtime errors and debugging effort.
-
 - title: Advanced Data Science Techniques Using GPUs
   organizers:
     - Didier Barradas-Bautista
