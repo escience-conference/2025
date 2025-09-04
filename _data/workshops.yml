@@ -50,15 +50,6 @@
     scientific workflows.
   url: https://www.theglobalresearchplatform.net/
 
-- name: "Reliable Metadata Generation and Data Discovery Workshop (RMGDD)"
-  abstract: >
-    The RMGDD workshop will explore machine-augmented workflows to provide reliable FAIR metadata easily and 
-    reliably, as well as the required data discovery mechanisms that can leverage this metadata.
-    <br><br>
-    Key topics include: Automated Metadata Extraction, Data Discovery Platforms, Solution Development Experience 
-    Showcase, and Clear Next Steps.
-  url: https://escience25.scios.tech/
-
 - name: "Wins, Fails, and Breakthroughs: How to Increase Your Influence and Facilitate Effective Collaboration in eScience Projects and Partnerships"
   abstract: >
     This half-day workshop is designed for computer and data scientists, researchers, and academics who are 
