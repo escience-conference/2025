@@ -1,21 +1,22 @@
-## Open Data and the Democratization of Science
+## Panel: Future of AI in eScience
 
-Data has become a key enabler of innovation and discovery in the 21st Century. Researchers today have unprecedented amounts of data from diverse sources, including sensors, instruments, and computational simulations, as well as an equally unprecedented need for computing to allow them to extract meaningful insights from the data to drive understanding, predictions, and decision making. It is there imperative, now more than ever, that all researchers benefit from the opportunities for scientific exploration enabled by data. As a result, ensuring broad, open, fair, and equitable access data is essential to democratizing science. This was recently [highlighted](https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/) by the US Whitehouse Office of Science and Technology Policy (OSTP) along with its new guidance to ensure that [Federally Funded Research Data Equitably Benefits All of America](https://www.whitehouse.gov/ostp/news-updates/2022/05/26/new-guidance-to-ensure-federally-funded-research-data-equitably-benefits-all-of-america/). And similar policies and directive exist in other countries. This panel will explore the challenges and opportunities of open and equitable data and its role in democratizing science. Specifically, the panelists will address one or more of the following questions: 
+Artificial intelligence (AI) is reshaping the way scientific discovery is conducted, from accelerating data-driven insights to enabling entirely new modes of research. As data volumes grow and experimental, observational, and simulation workflows become more complex, the integration of AI into scientific practice is no longer optional—it is transformative. This panel brings together experts from computing, domain science, and data infrastructure to discuss how AI will advance the frontiers of eScience. Panelists will explore emerging opportunities such as AI-enabled automation of experiments, large-scale model training across distributed cyberinfrastructure, and the integration of generative AI into scientific reasoning. They will also address challenges, including data quality, reproducibility, ethical and responsible AI, and the need for sustainable research ecosystems that balance human expertise with machine intelligence. By examining both current breakthroughs and long-term visions, this panel will provide the eScience community with perspectives on how AI can accelerate discovery while ensuring trust, transparency, and equity in the scientific enterprise.
 
-1.	Technology pushes and pulls: What technical challenges need to be addressed to manage the growing scales, heterogeneity and complexity of data, the resources and expertise needed to process this data, and the question being asked of this data (including the increasing use of AI/ML)?
-1.	Open equitable and fair access: What policy, financial, social, and technical challenges prevent data from being truly open, and ensure fair and equitable access to data by all communities?
-2.	Privacy, Civil Rights, Civil Liberties: What policies and mechanism are needed ensure that privacy, civil rights, and civil liberties are not violated by the data as well as the research that uses of the data? 
-3.	Reproducibility and replicability: How can open data be leveraged to enable reproducibility and replicability across all areas of computational and data-enable science and engineering research, and what incentives and tools and mechanisms can further reproducible/replicable research practices?  
-
+1. How has AI transformed eScience over the last 5 years? What are the most significant implications of these changes in your area?
+2. How has research software development changed with AI, and how will it change in the next few years?
+3. What are the critical infrastructure gaps (compute, data, security, software) that must be addressed to make AI a seamless part of the scientific process across disciplines, institutions, etc.
+4. What practices and technologies are needed to ensure AI-driven scientific results are explainable, trustworthy, and reproducible?
+5. How can AI augment human creativity and expertise in eScience? What are the limitations?
+6. How do we ensure that AI in science is deployed in ways that are equitable, unbiased, and balance openness with security concerns.
+7. What skills and training is needed for eScience practitioners to apply AI in their work?
+    
 
 ### Moderator
 
-- Manish Parashar, University of Utah, USA
+- Kyle Chard, University of Chicago, USA
 
 ### Panelists
 
-- David Abramson, University of Queensland, Australia 
-- Ilkay Altintas, University of California, San Diego, USA
-- Drew Mingl, State Data Coordinator, State of Utah
-- Federica Legger, National Institute for Nuclear Physics, Italy 
-- Valerio Pascucci, University of Utah, USA
+- Tanu Malik, University of Missouri, USA 
+- Mike Papka, Argonne National Laboratory, USA
+- Doug Thain, University of Notre Dame, USA
