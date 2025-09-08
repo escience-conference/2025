@@ -42,7 +42,7 @@ contents:
     tutorials: true
     papers: true
     posters: true
-    panel: false
+    panel: true
     studentprogram: false
   meeting:
     registration: false
