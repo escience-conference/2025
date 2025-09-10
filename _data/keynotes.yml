@@ -1,7 +1,7 @@
 - title: "Empowering our society in managing permafrost thaw hazards"
   time: "Tuesday Sep 16, 13:30-14:30"
   order: 1
-  chair: TBD
+  chair: Daniel S. Katz
   abstract: >
     Alaska represents the United States in the Arctic region and comes with a natural hazard unique to the Arctic: Permafrost thaw. Permafrost is ground that has remained frozen for at least two consecutive years and it can be ice-rich, resulting in sinkholes when the ground-ice melts. Nearly 170,000 people (or 192 communities) live on permafrost with over 80% of Alaska’s communities disconnected to the road system. These remote and permafrost-affected communities hold critical infrastructure for national security (runways etc). Simultaneously, many remote communities do not have a local governing body (county or borough) that otherwise would provide resources. Further, Alaska has the lowest grade in geospatial data maturity of all States in the United States where basic infrastructure data is not even digitally available. The Permafrost Discovery Gateway, which is a free online platform, aims to enable big geospatial data creation, access, and usability (think sub-meter across the Arctic) for permafrost science and hazard management. We are living in exciting times where we finally have the technology to dig into big data, generate, and present helpful information to enable science and the management of land and infrastructure. You will hear about how we are bringing together a broad team and multiple approaches to empower people, no matter their technical and financial resources, in addressing permafrost thaw hazards for a thriving Alaska and Arctic region.
 
@@ -18,7 +18,7 @@
 - title: "Serverless Scientific Workflow Engineering for Interdisciplinary Research in Earth Observation and Computational Ecology"
   time: "Wednesday Sep 17, 9:00-10:00"
   order: 2
-  chair: TBD
+  chair: Andre Bauer
   abstract: >
     Modern research in the area of earth observation (EO) and computational ecology poses challenges on the computing, storage, and communication infrastructure needed to analyze the huge volumes of data obtained from remote sensing systems. To develop, run, optimize, and maintain EO processing workflows, geoscientists nowadays need to have both in-depth domain knowledge as well as extensive skills in data science and IT systems. Workflow developers face the challenges of inconsistent terminology, a vast number of algorithms, contradictory recommendations, non-transparent data (pre-)processing, and the lack of comprehensive standards for workflow specification and data exchange. This results in very limited code and artifact reusability as well as poor result reproducibility. Moreover, the integration and scalable processing of huge data volumes (up to Petabytes) from multiple distributed and heterogeneous sources poses a significant entry barrier for geoscientists.
 
@@ -37,7 +37,7 @@
 - title: "Quantum Computing: An Outlook for Platforms and Applications"
   time: "Thursday Sep 18, 9:00-10:00"
   order: 3
-  chair: TBD
+  chair: Daniel S. Katz
   abstract: >
     Recent progress in quantum computing hardware has shown impressive scale and fidelity, sitting on the cusp of fault-tolerant operation and practical applications. I will discuss some of these developments and their implications for quantum applications, especially hybrid quantum-classical applications.
 
