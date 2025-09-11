@@ -16,6 +16,7 @@ Artificial intelligence (AI) is reshaping the way scientific discovery is conduc
 - Kyle Chard, University of Chicago, USA
 
 ### Panelists
-- Dan Katz, University of Illinois Urbana-Champaign, USA
-- Tanu Malik, University of Missouri, USA 
-- Mike Papka, Argonne National Laboratory, USA
+- Dan Katz, University of Illinois Urbana-Champaign
+- Carl Kesselman, University of Southern California
+- Tanu Malik, University of Missouri
+- Mike Papka, Argonne National Laboratory
