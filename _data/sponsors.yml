@@ -3,3 +3,6 @@
 
 - name: Stack Science and SGX3
   image: ss-sgx3-logos.png
+
+- name: IEEE Chicago
+  image: ieee-chicago.jpg
