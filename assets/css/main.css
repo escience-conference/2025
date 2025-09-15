@@ -4564,6 +4564,28 @@ a.list-group-item.active>.badge,
 	max-height: 4em;
 }
 
+/* Wi‑Fi alert box */
+.alert-wifi {
+	margin: 20px 0 30px;
+	padding: 16px 18px;
+	border: 1px solid #e3e8ef;
+	background: #f7fbff;
+	border-left: 5px solid var(--primary-accent);
+	box-shadow: 0 2px 6px rgba(0,0,0,0.04);
+}
+
+.alert-wifi .alert-title {
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	margin-bottom: 6px;
+	color: #2b2b2b;
+}
+
+.alert-wifi .alert-body {
+	color: #333;
+}
+
 .tabs {
 	position: relative;
 	background: var(--primary-accent);
