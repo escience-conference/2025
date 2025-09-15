@@ -3,7 +3,7 @@
     - Mats Rynge (USC Information Sciences Institute)
     - Karan Vahi (USC Information Sciences Institute)
   links:
-    - https://pegasus.isi.edu/tutorial/learn-pegasus-workflows-2025/Pegasus-Tutorial-2025.pdf
+    - https://pegasus.isi.edu/tutorial/escience25/escience25-ai-workflows-access-resources.pdf
   abstract: |
     Workflows are a key technology for enabling complex scientific computations. They capture the interdependencies between processing steps in data analysis and simulation pipelines as well as the mechanisms to execute those steps reliably and efficiently. Workflows can capture complex processes, promote sharing and reuse, and also provide provenance information necessary for the verification of scientific results and scientific reproducibility.
 
